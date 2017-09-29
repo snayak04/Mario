@@ -1,7 +1,9 @@
 #OSU BRUTUS CREW's SUPER MARIO BROS.
 
-Sprint 6 Updates: 
+Setup Instructions: 
+Clone, and open in Visual Studio with XNA and DX10 installed,then compile and run. 
 
+WHAT'S NEW:
 Supports Nightmare Mod. Are you tired of seeing the same enemy again and again, we have flying squids, and zombies to spice things up. To survive, you gotta run, you stop, you die. You kill an enemy, then zombies will resurrect.
 
 NOTES:
