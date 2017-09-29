@@ -37,3 +37,7 @@ ADDITIONAL UPDATES or Misc... :
 4. Created Menu Screen.
 5. Time Out Screen, Game Over Screen, Current Lives Screen also added.
 6. NightMareMode has 1 live system, and time is used as a score counter, the longer you survive, the better!
+
+
+About the project:
+This was created in summer of 2017 with 3 other students for as a class project. We used various design patterns, to achieve the modularity of the game.
