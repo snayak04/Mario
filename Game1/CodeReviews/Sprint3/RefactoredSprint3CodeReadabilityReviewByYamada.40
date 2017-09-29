@@ -1,0 +1,8 @@
+﻿Refactored READABILITY Code Review Author: Mike Yamada
+Date of Code Review: 06/20/2017
+Sprint #3
+Reviewed File: MarioEnemyCollisionResponse.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 1.0 Minutes
+Comments:
+There was no need to improve the code from initial review.  The code was clear and concise to read as it is.

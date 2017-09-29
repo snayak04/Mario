@@ -1,0 +1,12 @@
+Swarup Nayak
+
+7/18/17
+
+Sprint5
+FlagPoleItem.cs
+
+Minghao Zhu
+
+
+
+The class itself is very loosley coupled, and the class is only responsible for drawing and updating, therefor making it highly cohesive as it is not doing anything else. However, the long constructor could be shortened by initializing few properties in separate shorter functions, thus reducing code smells.

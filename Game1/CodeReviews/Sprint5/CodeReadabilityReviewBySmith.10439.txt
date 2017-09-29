@@ -1,0 +1,10 @@
+Samuel Smith
+7/14/17
+Sprint 5
+BrickBreakSoundEffect.cs
+Michael Yamada
+Minutes: <1
+
+Very concise, clear.
+Readable variable names (sound for the sound), methods (PlaySound), and class names (BrickBreakSoundEffect).
+Parameter s is clearly explained with it's type and the local variable it gets assigned to.

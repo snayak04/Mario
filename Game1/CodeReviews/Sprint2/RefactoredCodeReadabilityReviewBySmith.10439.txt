@@ -1,0 +1,11 @@
+Author: Samuel Smith
+6/6/17
+Sprint2
+HiddenBlockItem.cs
+Michael Yamada
+1:30
+
+Comments:
+Clear names, class has Item in the name, implements IItems interface.
+No doubt about what things do.
+

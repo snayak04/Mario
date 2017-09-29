@@ -1,0 +1,10 @@
+Samuel Smith
+6/16/2017
+Sprint 3
+MarioObjectCollisionResponse.cs
+Michael Yamada
+
+All of the methods and classes for the "is" checks are very easy to read and clearly labelled.
+The class is only doing one thing, handling the collision response of mario and the object, only depends on those two objects.
+The two functional methods that nothing else needs are private and hidden.
+Very cohesive, what coupling there is can't really be avoided, very low dependency.

@@ -1,0 +1,9 @@
+Minghao Zhu
+7/14/2017
+Sprint5
+HUD.cs
+Swarup Nayak
+3:00
+
+The class is high cohesive and loose coupling. However, moving all Vectors (mar, sc, c, cn...) may raise the cohesion. 
+The length of the methods and the class is good.

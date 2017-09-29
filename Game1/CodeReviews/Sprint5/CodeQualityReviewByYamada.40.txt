@@ -1,0 +1,17 @@
+﻿Quality Code Review Author: Mike Yamada
+Date of Code Review: 07/18/2017
+Sprint #5
+Reviewed File: PlayGameState.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 3.25 Minutes
+Comments:
+The PlayGameState is lower in cohesion and tightly coupled, but that would be the nature of this class as it handles
+all the various game functions related to game play as it title reflects.  Passing the game object to different 
+classes.  The update method consilidated the different objects in the game and some into arrays to neetly got through
+each one and update or remove them from use. The draw function handles all the relavent object's drawing. 
+
+Given the nature of this class, it follows the singleton pattern however is not called via a private constuctor but 
+it behaves in a manner similar to a singleton.  This singletonish nature makes it difficult to find anywhere to improve 
+upon the quality of this code except for strictly employing the singleton pattern for this GamePlayState, b/c there can
+only be one GamePlayState, multiple instances of this would break the program.  However the nature of the state pattern 
+implies that there can only be one state being executed at a time.

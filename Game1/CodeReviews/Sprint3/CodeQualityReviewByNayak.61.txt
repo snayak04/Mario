@@ -1,0 +1,12 @@
+﻿Swarup Nayak
+6/16/2017
+Sprint3
+ObjectCreator.cs
+Minghao Zhu
+
+Specific comments on code quality
+Class is short, and does specific task; creates objects(star, flower, mushrooms, etc.).
+The code seems pretty loosely coupled, and has decent cohesion. The class uses File loader and reads the map and stores them in a list of object. However, I think in future we will get rid of this class.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change 
+Let's say, we want to add a new object, as of current implementation, we will have to update this class, add the object to the object generation. So overall, the class is somewhat loosely cohesive.

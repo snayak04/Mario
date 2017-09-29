@@ -1,0 +1,10 @@
+﻿Refractored READABILITY Code Review Author: Mike Yamada
+Date of Code Review: 06/06/2017
+Sprint #2
+Reviewed File: FireMarioRightJumpingTextureAtlas.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 3 Minutes
+Comments:
+Readability of this code was easier to locate as all the TextureAtlases were grouped into a folder with the same name.  This appears to be the only significant
+improvement with the code since refractoring.  The code was already easily readable with all class, method, and variable names being quite explicit in its naming
+convention. 

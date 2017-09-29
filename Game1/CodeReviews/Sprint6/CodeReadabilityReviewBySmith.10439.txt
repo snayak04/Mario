@@ -1,0 +1,8 @@
+Samuel Smith
+7/27/2017
+Sprint 6
+NightmareEnemyItemCollisionResponse
+Minghao Zhou
+Minutes: 1.5
+The class name is very clear, and the variables are all descriptive.
+All of the methods are clearly defined.

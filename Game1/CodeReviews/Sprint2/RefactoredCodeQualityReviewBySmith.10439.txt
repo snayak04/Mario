@@ -1,0 +1,15 @@
+Samuel Smith
+6/6/2017
+Sprint2
+HiddenBlockItem.cs
+Michael Yamada
+
+Specific comments on code quality
+Class is very short and straight to the point (good)
+The longest method is only 12 lines long (good)
+Slight redundancy in the Draw() method, width and height are set to the texture width and height divided by Rows and Columns, except Rows and Columns are both set to 1
+The code for width, height, row, and column seem to be for calculating the square of a texture atlas to get the current frame, but the object is not animated. However, when using HiddenBlock later, it does animate into a used block. The code could be useful then.
+
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+Moving the Vector2 pos parameter in the constructor to the Draw method would allow one object to be draw and class that handles positoning various screen elements would be able to avoid just creating a new hidden block whenever the current one needed to be placed somewhere else.

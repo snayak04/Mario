@@ -1,0 +1,8 @@
+Minghao Zhu
+7/27/2017
+Sprint6
+NightmareGameState.cs
+Sam
+3:00
+
+The class is a little long. Maybe create a instances updating class would loose the coupling and reduce the dependency. The class is high cohesive since it only deal with the Nightmare Game State stuff.

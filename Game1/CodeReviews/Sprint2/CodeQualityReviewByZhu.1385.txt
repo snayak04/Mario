@@ -1,0 +1,14 @@
+Minghao Zhu
+6/2/2017
+Sprint2
+MysteryBlock.cs
+Swarup Nayak
+3:00
+
+Specific comments on code quality
+No redundant method or variable.
+All methods are concise
+Easy to maintain as he showed the variables clearly and separetaly such as how to get them.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+Making the mystery block moving. Change the location.X in destinationRectangle and increment it in Update().

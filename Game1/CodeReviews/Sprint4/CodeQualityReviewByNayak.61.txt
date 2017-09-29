@@ -1,0 +1,17 @@
+Swarup Nayak
+
+7/5/17
+
+Sprint4
+
+ProjectileEnemyCollsionResponse.cs
+
+Mike Yamada
+
+3
+
+
+Comments: 
+The class is very self explanatory, takes a IProjectile, IEnemy, CollisionSide as the parametrs for constructor, after which the class calls the required function on the IEnemy, and IProjectile. 
+
+Everything is clear and no dead or unnecessary code exists.

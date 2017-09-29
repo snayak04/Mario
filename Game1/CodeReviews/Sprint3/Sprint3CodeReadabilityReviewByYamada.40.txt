@@ -1,0 +1,9 @@
+﻿READABILITY Code Review Author: Mike Yamada
+Date of Code Review: 06/16/2017
+Sprint #3
+Reviewed File: MarioEnemyCollisionResponse.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 1.5 Minutes
+Comments:
+As I had stated in the Quality review, the readability to this code is very high.  There are no unnecessary lines of codes or
+comments.  Everything is easy to read and intuitive in regards to naming conventions. 

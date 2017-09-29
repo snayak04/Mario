@@ -1,0 +1,11 @@
+Minghao Zhu
+7/27/2017
+Sprint6
+NightmareGameState.cs
+Sam
+3:00
+
+The names of methods and variables are meaningful.
+The length of methods is reasonable.
+The contents are easy to follow.
+No redundent comments.

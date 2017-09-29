@@ -1,0 +1,9 @@
+Samuel Smith
+6/16/2017
+Sprint 3
+MarioObjectCollisionResponse.cs
+Michael Yamada
+Minutes: 2
+
+Very simple to read, the methods for determining Mario state isSmall and isBig are both very readable and easy to understand.
+Very cohesive, no real areas that are difficult to read.

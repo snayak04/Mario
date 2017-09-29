@@ -1,0 +1,9 @@
+READABILITY Code Review Author: Mike Yamada
+Date of Code Review: 06/03/2017
+Sprint #2
+Reviewed File: FireMarioRightJumpingTextureAtlas.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 2 Minutes
+Comments:
+Indention of constructor and other methods in formatting was good, making it easy to follow each function.  The class title is clear and specific telling me that this code is for the Fire Mario which is facing right and is performing the jumping action. 
+If there was something that neeed to be improved upon you could possibly re-name source and destination with better descriptions, source = SpriteSource and destination = SpriteDestination.  

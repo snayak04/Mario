@@ -1,0 +1,11 @@
+Samuel Smith
+7/18/2017
+Sprint 5
+BrickBreakSoundEffect.cs
+Michael Yamada
+
+The class is very cohesive with little to no coupling.  The name is very clear and related to the game action rather than a backend implementation action.
+
+If we decided to change to using a different sound, or even playing multiple sounds, for the brick breaking, it would be very simple to add a private collection of sounds, or to simply pass a different sound.
+
+This style combined with the SoundFactory allows the actual audio of the game actions to have a single point of control. The ease of changing this sound extends to all of the game sounds.

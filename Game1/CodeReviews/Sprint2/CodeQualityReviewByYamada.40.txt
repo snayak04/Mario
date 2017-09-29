@@ -1,0 +1,10 @@
+Quality Code Review Author: Mike Yamada
+Date of Code Review: 06/03/2017
+Sprint #2
+Reviewed File: FireMarioRightJumpingTextureAtlas.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 1.75 Minutes
+Comments:
+The draw method is concise with as few lines of code necessary to implement it.  Update method was even shorter (no code).
+
+A hypothetical change could be a change to the texture atlas for the FireMarioRightJumpingTextureAtlas.  This class could easily handle a change to the imagery as what ever texture is passed in becomes the new FireMarioRightJumpingTextureAtlas.  

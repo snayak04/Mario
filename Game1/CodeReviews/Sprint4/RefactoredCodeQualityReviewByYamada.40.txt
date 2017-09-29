@@ -1,0 +1,10 @@
+﻿Quality Code Review Author: Mike Yamada
+Date of Code Review: 07/05/2017
+Sprint #4
+Reviewed File: Camera.cs
+Reviewed File Author: Swarup Nayak
+# of Minutes to Complete Review: 4 Minutes
+Comments:
+The coupling remains as loose as possible after refactoring.  The class still only handles one thing, the camera function for the game, thereby remaining highly cohesive.
+I do not think there is anything that I could do to improve upon this code.  Everyline concisely addresses its functions as necessary.  There does not appear to be any
+unneeded code. 

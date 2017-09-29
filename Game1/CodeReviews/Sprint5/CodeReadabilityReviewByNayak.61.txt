@@ -1,0 +1,9 @@
+Swarup Nayak
+7/14/17
+Sprint 5
+FlagPoleItem.cs
+Minghao Zhu
+Minutes: 2
+
+Consist of very many counters for various purposes, which are slightly unclear, however, many of them are self explanatory.
+Constructor is initializing many variables. Overall, clear and somewhat meaningful class.

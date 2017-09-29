@@ -1,0 +1,10 @@
+Minghao Zhu
+7/05/2017
+Sprint4
+Physics.cs
+Author: Samuel Smith
+2:00
+
+All methods are in reasonable length and for single purpose. 
+Only variables need to be accessed outside class were labeled as public.
+The class is in low dependency and high cohesion.

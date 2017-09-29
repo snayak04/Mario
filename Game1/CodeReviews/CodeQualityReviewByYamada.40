@@ -1,0 +1,14 @@
+﻿Quality Code Review Author: Mike Yamada
+Date of Code Review: 07/27/2017
+Sprint #6
+Reviewed File: EnterNameState.cs
+Reviewed File Author: Swarup Nayak
+# of Minutes to Complete Review: 9.25 Minutes
+Comments:
+The EnterNameState is high in cohesion and relatively loosely coupled. The class only handles the keyboard input and writing the 
+input to a file all related to the logging the name associated with the high score.
+
+This class follows the state pattern and treats this particular function as a separate state of the various game states
+for this program.  It handles all the functions related to this one particular theme, entering the user's name to be associated
+with the high score.  The implementation could possibly be loosened a little further by finding a way to encapsulate the game (g)
+reference into a method call to handle using the game reference's specific call.

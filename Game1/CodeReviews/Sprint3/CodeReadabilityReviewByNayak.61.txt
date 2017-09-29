@@ -1,0 +1,10 @@
+﻿Swarup Nayak
+6/16/17
+Sprint3
+ObjectCreators.cs
+Minghao Zhu
+2
+
+Comments:
+The property is clear and self explainatory. Map is being loaded from FileLoading, cordinates area initialized (x,y) to 0,0. Then each element is compared via switch cases and added to a list named ObjList. 
+

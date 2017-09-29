@@ -1,0 +1,12 @@
+﻿Swarup Nayak
+6/6/2017
+Sprint2
+TurtleEnemy.cs
+Minghao Zhu
+
+Specific comments on code quality
+Class is short, and does specific task. It draws a turtle sprite when invoked through another class. The longest method being of around 10 lines.
+The code seems pretty loosely coupled, and has decent cohesion. The class uses rows and columns to animate the sprite (Turtle)
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change 
+Let's say, we want a create a new sprite sheet for Turtle with different rows and columns, the current implementation would not easily support that change. He will have to make some changes to rows and columns.

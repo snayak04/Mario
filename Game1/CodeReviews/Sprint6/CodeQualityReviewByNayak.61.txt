@@ -1,0 +1,12 @@
+Swarup Nayak
+
+7/27/17
+
+Sprint 6
+NightmareThreeFrameTextureAtlas.cs
+
+Mike Yamada
+
+
+
+The class itself is very loosley coupled, and the class is only responsible for drawing a three frame texture, therefor making it highly cohesive as it is not doing anything else. No noticable code smells.

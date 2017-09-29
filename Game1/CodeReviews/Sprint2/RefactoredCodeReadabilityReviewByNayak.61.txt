@@ -1,0 +1,10 @@
+﻿Swarup Nayak
+6/6/17
+Sprint2
+TurtleEnemy.cs
+Minghao Zhu
+2
+
+Comments:
+All the field names, and self explainatory. Rows, Columns, Widht, Height can tell anyone that the code is dealing with some kind of tabular data. In the draw method, it is clear that a sprite is being drawn on the screen.
+

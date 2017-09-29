@@ -1,0 +1,15 @@
+Author of the code review: Swarup Nayak
+
+Date of the code review: 6/2/17
+
+Sprint number: 2
+
+Name of the .cs file being reviewed: BigMarioLeftWalkingState
+
+Author of the .cs file being reviewed: Minghao Zhu
+
+Specific comments on code quality: Clear coding practice fields followed camelCase styles, and the methods are PascalCase styles. Implemented the method headers that were implemented in the IMario interface.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change:
+
+As per the current implementation of the Mario, whenever we would need to change a certain state's functionality, it can be done by simply going to its specific class and update the previous implementation or create a new method.

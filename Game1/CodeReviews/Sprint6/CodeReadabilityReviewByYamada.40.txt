@@ -1,0 +1,10 @@
+﻿READABILITY Code Review Author: Mike Yamada
+Date of Code Review: 07/27/2017
+Sprint #6
+Reviewed File: EnterNameState.cs
+Reviewed File Author: Swarup Nayak
+# of Minutes to Complete Review: 8 Minutes
+Comments:
+The readability to this code is quite high.  There does not seem to be any unnecessary lines of code or
+comments.  Those comments left in were necessary and quite helpful in understanding what is going on with
+the code.  Everything is easy to read and intuitive in regards to naming conventions. 

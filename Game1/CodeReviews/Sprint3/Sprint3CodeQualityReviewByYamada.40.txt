@@ -1,0 +1,12 @@
+﻿Quality Code Review Author: Mike Yamada
+Date of Code Review: 06/16/2017
+Sprint #3
+Reviewed File: MarioEnemyCollisionResponse.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 3.25 Minutes
+Comments:
+The enemy collistion response is highly cohesive as it handles only one function: enemy collision response.  Readability is
+high with no extra code necessary.  Coupling seems to be stronger than weak due to the nature of the function.  I don't
+this can be avoided though as all three parameters are necessary.
+
+I can not think of any improvements to this code.

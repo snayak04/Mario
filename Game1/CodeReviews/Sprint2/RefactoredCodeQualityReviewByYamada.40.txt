@@ -1,0 +1,11 @@
+﻿Refractored Code Quality Review Author: Mike Yamada
+Date of Code Review: 06/03/2017
+Sprint #2
+Reviewed File: FireMarioRightJumpingTextureAtlas.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 2 Minutes
+Comments:
+The constructor and Draw method remained the same in lines of code.  Both were well under the required limit of lines of code.  The Draw method having only five 
+lines of code would indicate that the method performs its task sufficiently with so few lines.  The code appears to have high cohesion as all functions within 
+the class are focused on drawing.  The dependencies seems a bit on the strong side as the constructor depends on the Texture2D class and the Draw depends on the
+SpriteBatch and Vector2 classes.  This would imply that the coupling is higher than it is lower given all the dependencies.  

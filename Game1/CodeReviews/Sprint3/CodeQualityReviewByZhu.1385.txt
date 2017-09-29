@@ -1,0 +1,12 @@
+Minghao Zhu
+6/16/2017
+Sprint3
+MarioItemCollisionResponse.cs
+Swarup Nayak
+3:00
+
+Specific comments on code quality
+The length of the class is reasonable.
+All the class is for a specfic function: setting the response after collision between Mario and Item.
+
+A hypothetical change: Create a seperate class to handle all changes in Game g. Such as blocks remove/add. This change will decrease the lines in the class.

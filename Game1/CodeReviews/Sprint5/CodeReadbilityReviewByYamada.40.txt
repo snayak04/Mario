@@ -1,0 +1,9 @@
+﻿READABILITY Code Review Author: Mike Yamada
+Date of Code Review: 07/14/2017
+Sprint #5
+Reviewed File: PlayGameState.cs
+Reviewed File Author: Sam Smith
+# of Minutes to Complete Review: 5 Minutes
+Comments:
+The readability to this code is quite high.  There does not seem to be any unnecessary lines of code or
+comments.  Everything is easy to read and intuitive in regards to naming conventions. 

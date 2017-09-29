@@ -1,0 +1,13 @@
+Swarup Nayak
+
+7/27/17
+
+Sprint 6
+NightmareThreeFrameTextureAtlas.cs
+
+Mike Yamada
+Minutes: 2
+
+
+
+The class is very clear and self explanatory, all the variables are meaningful and methods are short and easy to follow as well. 

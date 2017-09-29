@@ -1,0 +1,7 @@
+Author of the code review: Swarup Nayak
+Date of the code review: 6/2/17
+Sprint number: 2
+Name of the .cs file being reviewed: BigMarioLeftWalkingState.cs
+Author of the .cs file being reviewed: Minghao Zhu
+Number of minutes taken to complete the review: 5
+Specific comments on what is readable and what is not: All the function names are readable, and have method headers for fututre implementation and maintainability.

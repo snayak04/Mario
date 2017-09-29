@@ -1,0 +1,10 @@
+Minghao Zhu
+6/2/2017
+Sprint2
+MysteryBlock.cs
+Swarup Nayak
+3:00
+
+The names of methods and variables are meaningful.
+The constructor is good and I know what paramater to pass.
+The class name is meaningful that I can know what the class does from the name instead of reading the code.

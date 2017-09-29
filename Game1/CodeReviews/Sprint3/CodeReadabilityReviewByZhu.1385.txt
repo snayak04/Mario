@@ -1,0 +1,10 @@
+Minghao Zhu
+6/16/2017
+Sprint3
+MarioItemCollisionResponse.cs
+Swarup Nayak
+3:00
+
+The names of methods and variables are meaningful.
+The constructor is good and I know what paramater to pass.
+The if else conditions are clear and number of statements is small so that easy to follow.

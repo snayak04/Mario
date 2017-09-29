@@ -1,0 +1,7 @@
+Samuel Smith
+7/27/2017
+Sprint 6
+NightmareEnemyItemCollisionResponse.cs
+Minghao Zhou
+The class is very cohesive, it only handles the response of the enemies.
+It could remove some state logic, the !n.IsKilled at line 19.

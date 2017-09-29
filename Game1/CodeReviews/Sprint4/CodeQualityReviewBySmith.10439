@@ -1,0 +1,8 @@
+Samuel Smith
+7/5/2017
+Sprint 4
+ShellProjectile.cs
+Minghao Zhou (Author)
+
+It doesn't reference any other class of ours directly, so it has loose coupling.
+The class does handle both the drawing and the positioning; adding a TextureAtlas class to handle the drawing would increase cohesion.  It would be fairly easy to copy and paste the drawing code into a textureAtlas and cut all of it out of the projectile
