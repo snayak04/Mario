@@ -1,4 +1,4 @@
-#OSU BRUTUS CREW's SUPER MARIO BROS.
+# OSU BRUTUS CREW's SUPER MARIO BROS.
 
 Setup Instructions: 
 Clone, and open in Visual Studio with XNA and DX10 installed,then compile and run. 
